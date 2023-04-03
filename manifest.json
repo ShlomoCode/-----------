@@ -1,0 +1,20 @@
+{
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {},
+    "name": "מציף הוידאו",
+    "description": "העבר למצב תמונה בתוך תמונה בלחיצת כפתור",
+    "homepage_url": "https://madrichim.ovh",
+    "icons": {
+        "16": "icon-16.png",
+        "48": "icon-48.png",
+        "128": "icon-128.png"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "version": "1.1",
+    "manifest_version": 3
+}
